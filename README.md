@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Zalan Lykos. AI agent and automation engineer, cybersecurity student." width="960">
+  <img src="banner.svg" alt="Zalan Lykos. AI agent and automation engineer, cybersecurity student." width="960">
 </p>
 
 <h3 align="center">AI agents, workflow automation, and full-stack systems,<br>engineered with a security mindset.</h3>
@@ -14,11 +14,11 @@
 <p align="center">All built. All running. The proof is one click away.</p>
 
 <p align="center">
-  <a href="https://zalanlykos.github.io"><img src="assets/button.svg" alt="See everything I've built at zalanlykos.github.io" width="460"></a>
+  <a href="https://zalanlykos.github.io"><img src="button.svg" alt="See everything I've built at zalanlykos.github.io" width="460"></a>
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Stack: n8n, AI agents, LLMs, APIs, Python, Node.js, HTML, CSS, JavaScript, React, PHP, MongoDB, PostgreSQL, SQL, ethical hacking, Linux, networking" width="960">
+  <img src="stack.svg" alt="Stack: n8n, AI agents, LLMs, APIs, Python, Node.js, HTML, CSS, JavaScript, React, PHP, MongoDB, PostgreSQL, SQL, ethical hacking, Linux, networking" width="960">
 </p>
 
 <p align="center">
