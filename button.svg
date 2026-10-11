@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="84" viewBox="0 0 460 84" role="img" aria-label="See everything I've built at zalanlykos.github.io">
+  <title>See everything I've built</title>
+  <defs>
+    <linearGradient id="bb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="460" y2="84">
+      <stop offset="0" stop-color="#887DF7"/><stop offset="0.5" stop-color="#7fd6ff"/><stop offset="1" stop-color="#887DF7"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 230 42" to="360 230 42" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace">
+  <rect x="3" y="3" width="454" height="78" rx="14" fill="#10141c" stroke="url(#bb)" stroke-width="3"/>
+  <text x="230" y="40" font-size="23" font-weight="700" fill="#e6e9f2" text-anchor="middle">See everything I've built</text>
+  <text x="230" y="63" font-size="14" fill="#6b7790" text-anchor="middle">zalanlykos.github.io</text>
+  </g>
+</svg>
